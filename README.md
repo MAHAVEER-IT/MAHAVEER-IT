@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Animated Header with SVG and styling -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F724E7&center=true&vCenter=true&width=500&height=100&lines=MAHAVEER+K;Flutter+%26+MERN+Expert;Mobile+%26+Web+Developer" alt="Typing SVG" />
+  <!-- Animated Header with SVG and styling - FIXED animation text -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F724E7&center=true&vCenter=true&width=550&height=100&lines=MAHAVEER+K;Flutter+%26+MERN+Expert;Mobile+%26+Web+Developer+" alt="Typing SVG" />
 </div>
 
 <!-- Tech Stack Badges -->
@@ -27,8 +27,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAHAVEER-IT&theme=radical&hide_border=true" />
 </div>
 
-<!-- Animated Wave -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/wave.svg" width="100%">
+<!-- Animated Wave - FIXED -->
+<img src="images/wave.svg" width="100%">
 
 <!-- ★★ STARRED PROJECTS ★★ -->
 <h2 align="center">
@@ -171,11 +171,6 @@
   <img src="https://img.shields.io/badge/DS&A_Udemy_Certificate-EC5252?style=for-the-badge&logo=udemy&logoColor=white" />
 </p>
 
-<!-- Updated Footer with reliable images -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Animation" width="100%">
-</p>
-
 <!-- Visitor Count - More reliable implementation -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MAHAVEER-IT&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views">
@@ -188,5 +183,9 @@
 
 <!-- Last updated timestamp -->
 <p align="center">
-  <i>Last updated: 2025-07-12 16:37:50 UTC</i>
+  <i>Last updated: 2025-07-12 16:54:44 UTC</i>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Animation" width="100%">
 </p>
