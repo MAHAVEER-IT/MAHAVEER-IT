@@ -27,8 +27,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAHAVEER-IT&theme=radical&hide_border=true" />
 </div>
 
-<!-- Animated Wave - FIXED -->
-<img src="images/wave.svg" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <!-- ★★ STARRED PROJECTS ★★ -->
 <h2 align="center">
