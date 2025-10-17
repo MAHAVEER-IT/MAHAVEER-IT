@@ -22,33 +22,47 @@
 
 ## About Me
 
-I am a B.Tech student based in Tamil Nadu, India, with a strong focus on full-stack development. My primary expertise lies in building cross-platform mobile applications with **Flutter** and developing robust, scalable web applications using the **MERN stack** (MongoDB, Express.js, React, Node.js).
+[cite_start]I am a B.Tech student at **Sri Eshwar College of Engineering (2023-2027)**[cite: 5], with a strong focus on full-stack development. [cite_start]My primary expertise lies in building cross-platform mobile applications with **Flutter** [cite: 14] [cite_start]and developing robust, scalable web applications using the **MERN stack** [cite: 8] [cite_start]and **Next.js**[cite: 27].
 
 I am passionate about continuous learning and am currently deepening my knowledge in **Advanced Flutter techniques**, **Cloud-native Architecture**, and **DevOps principles**. I am actively seeking opportunities to collaborate on challenging projects and contribute to innovative solutions.
 
 - 🌎 **Location:** Tamil Nadu, India
-- 🎓 **Education:** B.Tech Information Technology
-- 🎯 **Focus:** Mobile Development (Flutter) & Web Development (MERN)
-- 💡 **Ask Me About:** Flutter, React, Node.js, and MongoDB
+- [cite_start]🎓 **Education:** B.Tech Information Technology [cite: 5]
+- [cite_start]🎯 **Focus:** Mobile Development (Flutter) & Web Development (MERN, Next.js) [cite: 31]
+- [cite_start]💡 **Ask Me About:** Flutter, React, Node.js, and MongoDB [cite: 31, 32]
+
+---
+
+## 🚀 Experience
+
+[cite_start]**Intern @ Better Tomorrow** (Feb 2025 - Mar 2025) [cite: 7]
+- [cite_start]Built **Note Mate**, an intelligent note-taking web application using the MERN stack. [cite: 8, 20]
+- [cite_start]Implemented AI-driven summarization and dynamic schedule generation powered by OpenAI APIs. [cite: 8]
+- [cite_start]Enabled users to create, edit, and manage personalized schedules for enhanced productivity. [cite: 9]
+- [cite_start]Deployed the frontend on Vercel and the backend on Render.com, ensuring seamless performance. [cite: 10]
 
 ---
 
 ## Technical Stack
 
-### Languages & Frameworks
+### Languages, Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,js,cpp,python,html,css" alt="Languages & Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,nextjs,js,cpp,html,css" alt="Languages & Frameworks"/>
 </p>
 
 ### Databases & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,vscode,androidstudio,postman,docker" alt="Databases & Tools"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,vscode,androidstudio,postman" alt="Databases & Tools"/>
 </p>
 
 ### Cloud & Deployment
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,aws" alt="Cloud & Deployment"/>
+  <img src="https://skillicons.dev/icons?i=vercel,render" alt="Cloud & Deployment"/>
 </p>
+
+### Architectures & Core Concepts
+-   [cite_start]**Architectures:** BLOC (Business Logic Component), Clean Architecture [cite: 34]
+-   [cite_start]**Core Subjects:** Data Structures & Algorithms (DSA), DBMS, OS, Computer Networks (CN) [cite: 35]
 
 ---
 
@@ -58,7 +72,7 @@ I am passionate about continuous learning and am currently deepening my knowledg
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🌱 Sow And Grow</h3>
+        <h3 align="center">🌱 Sow & Grow</h3>
         <div align="center">
           <a href="https://github.com/MAHAVEER-IT/Sow-Grow" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=MAHAVEER-IT&repo=Sow-Grow&theme=tokyonight&hide_border=true&bg_color=0D1117" />
@@ -69,22 +83,22 @@ I am passionate about continuous learning and am currently deepening my knowledg
             <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
             <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white"/>
           </p>
-          <p><strong>Smart farming app with AI disease detection, voice assistance, and vet communication for rural farmers.</strong></p>
+          [cite_start]<p><strong>A Flutter-based mobile app for rural farmers, featuring AI-driven crop disease detection, voice assistance, vet communication, and real-time mapping.</strong> [cite: 14, 15, 16]</p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">📝 AI-NoteMate</h3>
+        <h3 align="center">🅿️ Visitor Parking Management</h3>
         <div align="center">
-          <a href="https://github.com/MAHAVEER-IT/Note-Mate" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MAHAVEER-IT&repo=Note-Mate&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+          <a href="https://github.com/MAHAVEER-IT/Visitor-Parking-Management-System" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MAHAVEER-IT&repo=Visitor-Parking-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117" />
           </a>
           <br><br>
           <p>
-            <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-            <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-            <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+            <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
           </p>
-          <p><strong>Intelligent productivity app with AI-powered note-taking, task management, and speech-to-text capabilities.</strong></p>
+          [cite_start]<p><strong>A full-stack web app using Next.js and Firebase for managing visitor parking, including Google Auth, vehicle registration, and slot booking.</strong> [cite: 27, 28]</p>
         </div>
       </td>
     </tr>
@@ -105,20 +119,20 @@ I am passionate about continuous learning and am currently deepening my knowledg
 ## Achievements & Certifications
 
 ### Competitions & Hackathons
--   **2nd Place:** Hackastorm 36-hr Hackathon (Rapid Development Excellence)
--   **3rd Place:** Freshothon Project Expo (Innovation in Tech Solutions)
--   **Finalist:** Tech Trek Hackathon (Problem-Solving Skills)
+-   [cite_start]**2nd Place:** Hackastrom 25 (36-hour Hackathon) [cite: 47]
+-   [cite_start]**3rd Place:** Freshothon (Hackathon) [cite: 46]
+-   [cite_start]**3rd Place:** Project Expo [cite: 48]
 
 ### Certifications
--   Complete Flutter & Dart Bootcamp
--   Certified in Advanced SQL
--   Data Structures & Algorithms (Udemy)
+-   [cite_start]Certification in SQL (HackerRank) [cite: 50]
+-   [cite_start]Data Structures and Algorithms (Udemy) [cite: 51]
+-   [cite_start]5-Day Flutter Bootcamp (LetsUpgrade) [cite: 52]
 
 ### Coding Profiles
--   **LeetCode:** 80+ Problems Solved
--   **HackerRank:** 100+ Problems Solved
--   **Skillrack:** 100+ Problems Solved
--   **CodeChef:** 50+ Problems Solved
+-   [cite_start]**LeetCode:** 160+ Problems Solved [cite: 38]
+-   [cite_start]**HackerRank:** 100+ Problems Solved [cite: 44]
+-   [cite_start]**Skillrack:** 100+ Problems Solved [cite: 42]
+-   [cite_start]**CodeChef:** 50+ Problems Solved [cite: 40]
 
 ---
 
