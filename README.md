@@ -22,12 +22,12 @@
 
 ## About Me
 
-I am a Computer Science Engineering student based in Tamil Nadu, India, with a strong focus on full-stack development. My primary expertise lies in building cross-platform mobile applications with **Flutter** and developing robust, scalable web applications using the **MERN stack** (MongoDB, Express.js, React, Node.js).
+I am a B.Tech student based in Tamil Nadu, India, with a strong focus on full-stack development. My primary expertise lies in building cross-platform mobile applications with **Flutter** and developing robust, scalable web applications using the **MERN stack** (MongoDB, Express.js, React, Node.js).
 
 I am passionate about continuous learning and am currently deepening my knowledge in **Advanced Flutter techniques**, **Cloud-native Architecture**, and **DevOps principles**. I am actively seeking opportunities to collaborate on challenging projects and contribute to innovative solutions.
 
 - 🌎 **Location:** Tamil Nadu, India
-- 🎓 **Education:** B.E. Computer Science Engineering
+- 🎓 **Education:** B.Tech Information Technology
 - 🎯 **Focus:** Mobile Development (Flutter) & Web Development (MERN)
 - 💡 **Ask Me About:** Flutter, React, Node.js, and MongoDB
 
