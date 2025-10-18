@@ -89,7 +89,7 @@ I am passionate about continuous learning and am currently deepening my knowledg
       <td width="50%">
         <h3 align="center">🅿️ Visitor Parking Management</h3>
         <div align="center">
-          <a href="https://github.com/MAHAVEER-IT/Visitor-Parking-Management-System" target="_blank">
+          <a href="https://github.com/MAHAVEER-IT/visitor-parking-tracker" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=MAHAVEER-IT&repo=Visitor-Parking-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117" />
           </a>
           <br><br>
