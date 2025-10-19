@@ -13,7 +13,7 @@
   <a href="https://github.com/MAHAVEER-IT">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://mahaveer-portfolio-rose.vercel.app/">
+  <a href="https://mahaveer-sd.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
