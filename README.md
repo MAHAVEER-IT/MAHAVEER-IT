@@ -81,9 +81,9 @@
       <td width="50%" align="center">
         <h3>🌱 Sow & Grow</h3>
         <a href="https://github.com/MAHAVEER-IT/Sow-Grow">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MAHAVEER-IT&repo=Sow-Grow&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+          <img src="https://img.shields.io/badge/View_Project-Sow_&_Grow-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
         </a>
-        <br>
+        <br><br>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
         <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=google&logoColor=white"/>
@@ -93,9 +93,9 @@
       <td width="50%" align="center">
         <h3>🅿️ Visitor Parking</h3>
         <a href="https://github.com/MAHAVEER-IT/visitor-parking-tracker">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MAHAVEER-IT&repo=Visitor-Parking-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+          <img src="https://img.shields.io/badge/View_Project-Visitor_Parking-000000?style=for-the-badge&logo=next.js&logoColor=white" />
         </a>
-        <br>
+        <br><br>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
         <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
@@ -111,15 +111,12 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MAHAVEER-IT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHAVEER-IT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+  <img src="https://img.shields.io/badge/LeetCode-160+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/HackerRank-100+-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/SkillRack-100+-blue?style=for-the-badge" />
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MAHAVEER-IT&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=0D1117" width="100%" alt="Activity Graph" />
-</div>
 
 ---
 
