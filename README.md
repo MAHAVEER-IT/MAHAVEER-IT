@@ -1,124 +1,24 @@
-<div align="center">
-
-<!-- Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mahaveer%20K&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=[...]"/>
-
-<!-- Animated Typing Text -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&height=100&lines=Flutter+Develop[...]
-
-<!-- Social Badges -->
-<p align="center">
-  <a href="mailto:mahaveer.k2023it@sece.ac.in">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
-  </a>
-  <a href="http://www.linkedin.com/in/mahaveer-k">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/MAHAVEER-IT">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://mahaveer-sd.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
-
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MAHAVEER-IT&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
-</div>
-
----
-
-<!-- About Me Section -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-<div align="left" style="padding-left: 20px;">
-
-```yaml
-name: Mahaveer K
-location: Tamil Nadu, India
-education: B.Tech IT (2023-2027)
-college: Sri Eshwar College of Engineering
-current_year: 3rd Year
-specialization: 
-  - Cross-platform Mobile Apps (Flutter)
-  - Full-stack Web Development (MERN & Next.js)
-  - Cloud-Native Architecture
-  - DevOps Practices
-currently_learning: 
-  - Advanced Flutter Patterns
-  - Microservices Architecture
-  - Cloud Technologies
-```
-
-</div>
-
-</div>
-
----
-
-<!-- Tech Stack -->
-<div align="center">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
-
-### 💻 Languages & Frameworks
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,nodejs,express&theme=dark" />
-</p>
-
-### 🗄️ Databases & Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres&theme=dark" />
-</p>
-
-### 🎨 Frontend & Styling
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui&theme=dark" />
-</p>
-
-### 🛠️ Tools & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,vercel,render,figma&theme=dark" />
-</p>
-
-### 🏗️ Architecture & Patterns
-
-```
-📐 BLOC Pattern  •  🧹 Clean Architecture  •  🔄 Provider State Management
-📱 Responsive Design  •  🎯 RESTful APIs  •  ⚡ Performance Optimization
-```
-
-</div>
-
----
-
 <!-- GitHub Stats -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Statistics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Highlights
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MAHAVEER-IT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=MAHAVEER-IT&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Repositories-Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Focus-Flutter%20%2B%20MERN-38BDF8?style=for-the-badge&logo=flutter&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-FF6B6B?style=for-the-badge" alt="Location" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHAVEER-IT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Stack-Flutter%20%7C%20React%20%7C%20Node.js-0D1117?style=for-the-badge&logo=codeforces&logoColor=white" alt="Stack" />
+  <img src="https://img.shields.io/badge/Cloud-DevOps%20%7C%20Firebase-0EA5E9?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Activity-View%20on%20GitHub-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub activity" />
+  <img src="https://img.shields.io/badge/GitHub%20Profile-@MAHAVEER--IT-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  <a href="https://github.com/MAHAVEER-IT">
+    <img src="https://img.shields.io/badge/View%20on%20GitHub-Visit%20Profile-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub" />
+  </a>
 </p>
 
 </div>
@@ -148,39 +48,3 @@ currently_learning:
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 </div>
-
----
-
-<!-- Connect Section -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect!
-
-<p>
-  <i>I'm always excited to collaborate on innovative projects or discuss technology!</i><br>
-  <i>Feel free to reach out through any platform below:</i>
-</p>
-
-<p>
-  <a href="mailto:mahaveer.k2023it@sece.ac.in">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="http://www.linkedin.com/in/mahaveer-k">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://mahaveer-sd.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/MAHAVEER-IT">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<br>
-
-**⭐ From [MAHAVEER K](https://github.com/MAHAVEER-IT) with 💙**
-
-</div>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
