@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mahaveer%20K&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mahaveer%20K&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=[...]"/>
 
 <!-- Animated Typing Text -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&height=100&lines=Flutter+Developer+%F0%9F%93%B1;MERN+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;Building+Digital+Experiences+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&height=100&lines=Flutter+Develop[...]
 
 <!-- Social Badges -->
 <p align="center">
@@ -109,16 +109,17 @@ currently_learning:
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MAHAVEER-IT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MAHAVEER-IT&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MAHAVEER-IT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=MAHAVEER-IT&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHAVEER-IT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHAVEER-IT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
 </p>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MAHAVEER-IT&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" width="100%"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Activity-View%20on%20GitHub-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub activity" />
+</p>
 
 </div>
 
