@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="480" viewBox="0 0 1200 480" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', 'Segoe UI', Roboto, Arial, sans-serif">
+<defs><clipPath id="r"><rect width="1200" height="480" rx="32"/></clipPath></defs>
+<style>@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<g clip-path="url(#r)"><rect width="1200" height="480" fill="#050505"/>
+
+<text x="72" y="190" font-size="68" font-weight="700" letter-spacing="-2.2" fill="#FAFAFA">Mobile first.</text>
+<text x="72" y="276" font-size="68" font-weight="700" letter-spacing="-2.2" fill="#FAFAFA">Full stack.</text>
+<text x="72" y="362" font-size="68" font-weight="700" letter-spacing="-2.2" fill="#E51914">Cloud ready.</text>
+<text x="72" y="418" font-size="21" fill="#8A8A8E">Apps, web, and the DevOps that ships them.</text>
+<rect x="672" y="48" width="456" height="384" rx="28" fill="#121212"/>
+<text x="712" y="118" font-size="16" fill="#8A8A8E">Based in</text><text x="712" y="146" font-size="22" font-weight="600" fill="#FAFAFA">Tamil Nadu, India</text><text x="712" y="184" font-size="16" fill="#8A8A8E">Studying</text><text x="712" y="212" font-size="22" font-weight="600" fill="#FAFAFA">B.Tech Information Technology</text><text x="712" y="250" font-size="16" fill="#8A8A8E">College</text><text x="712" y="278" font-size="22" font-weight="600" fill="#FAFAFA">Sri Eshwar College of Engineering</text><text x="712" y="316" font-size="16" fill="#8A8A8E">Year</text><text x="712" y="344" font-size="22" font-weight="600" fill="#FAFAFA">3rd year, class of 2027</text><text x="712" y="382" font-size="16" fill="#8A8A8E">Learning</text><text x="712" y="410" font-size="22" font-weight="600" fill="#FAFAFA">Flutter, microservices, cloud</text>
+</g></svg>
